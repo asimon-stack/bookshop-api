@@ -1,2 +1,3 @@
 # bookshop-api
-A REST API for managing a bookshop catalogue
+
+A simple REST API for managing a bookshop catalog, built with Python and FastAPI.
